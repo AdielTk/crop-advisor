@@ -124,7 +124,7 @@ suggestions. [LinkedIn link]
 
 ## Example outputs
 
-Full outputs from every agent are saved in the `examples` folder, so you
+Full outputs from every agent are saved in the `images/examples` folder, so you
 can see how each stage behaved:
 
 - [Cassava: yellow patterns on leaves](examples/cassava_test1.txt)
