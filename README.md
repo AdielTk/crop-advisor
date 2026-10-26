@@ -51,7 +51,7 @@ tested it myself.
 
 ## Evaluation
 
-I tested the system on [number] cases and checked the results against
+I tested the system on 7 cases and checked the results against
 [FAO / CABI / sources you used].
 
 | Input | Disease named | Correct? | Problems |[Sources Checked]|
