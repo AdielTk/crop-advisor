@@ -7,7 +7,7 @@ for smallholder farmers in Ghana.
 > **This is a learning project, not a diagnostic tool.** Always confirm
 > with a Ministry of Food and Agriculture (MoFA) extension officer.
 
-![App screenshot](images/app-main.png)
+![App screenshot](images/app-validation.png)
 
 ## Why I built this
 
