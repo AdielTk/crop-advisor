@@ -116,7 +116,7 @@ isn't the same as a correct one.
 
 I am Adiel Tweneboah-Koduah, a third-year student at KNUST interested in AI and
 machine learning. I'm learning in public, and I welcome feedback and
-suggestions. [LinkedIn link]
+suggestions. www.linkedin.com/in/adiel-tweneboah-koduah-406a68355
 ## Screenshots
 ![Input validation rejecting an empty crop](images/app-validation.png)
 
@@ -127,8 +127,8 @@ suggestions. [LinkedIn link]
 Full outputs from every agent are saved in the `images/examples` folder, so you
 can see how each stage behaved:
 
-- [Cassava: yellow patterns on leaves](examples/cassava_test1.txt)
-- [Maize: brown spots with yellow edges](examples/maize_test1.txt)
-- [Cocoa: dark rotting patches on pods](examples/cocoa_test1.txt)
-- [Tomato: leaves curling with white powder](examples/tomato_test1.txt)
+- [Cassava: yellow patterns on leaves](images/examples/cassava_test1.txt)
+- [Maize: brown spots with yellow edges](/images/examples/maize_test1.txt)
+- [Cocoa: dark rotting patches on pods](images/examples/cocoa_test1.txt)
+- [Tomato: leaves curling with white powder](images/examples/tomato_test1.txt)
 - [Vague input: "plant looks sick"](images/examples/vague_test1.txt)
