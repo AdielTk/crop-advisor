@@ -1,0 +1,6 @@
+cropenv/
+testenv/
+.venv/
+.env
+__pycache__/
+output.txt

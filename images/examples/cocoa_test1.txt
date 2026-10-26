@@ -1,0 +1,107 @@
+INPUT: cocoa | dark rotting patches on pods
+
+===== Disease Identifier =====
+Based on the symptoms of dark rotting patches on cocoa pods, I am confident in the following possible diseases:
+
+1. **Phytophthora pod rot**: This disease is characterized by dark, water-soaked lesions on the pods, which can lead to extensive rotting and pod loss, matching the symptoms described.
+Confidence level: High
+
+2. **Aspergillus pod rot**: Aspergillus species can cause dark, sunken lesions on cocoa pods, which can lead to rotting and pod loss, although the lesions may not be as extensive as those caused by Phytophthora.
+Confidence level: Medium
+
+3. **Colletotrichum pod rot**: Colletotrichum species can cause dark, sunken lesions on cocoa pods, which can lead to rotting and pod loss, although the lesions may not be as extensive as those caused by Phytophthora or Aspergillus.
+Confidence level: Medium
+
+I am uncertain about the exact cause of the symptoms, as there may be other factors contributing to the rotting patches, such as fungal or bacterial infections, or environmental factors.
+
+===== Cause and Spread Analyst =====
+Based on the symptoms of dark rotting patches on cocoa pods, I have identified the following possible diseases:
+
+**1. Phytophthora pod rot**
+
+* Cause: Phytophthora species (a type of fungus)
+* How it spreads:
+	+ From plant to plant: Phytophthora can spread through water droplets on the leaves and stems of infected plants, as well as through the soil. It can also spread through infected plant parts, such as roots and stems, that come into contact with healthy plants.
+	+ From farm to farm: Phytophthora can spread through contaminated soil, water, and equipment. It can also spread through infected plant parts that are transported from one farm to another.
+
+**2. Aspergillus pod rot**
+
+* Cause: Aspergillus species (a type of fungus)
+* How it spreads:
+	+ From plant to plant: Aspergillus can spread through spores that are released into the air and then land on healthy plants. It can also spread through contaminated soil and water.
+	+ From farm to farm: Aspergillus can spread through contaminated soil, equipment, and water. It can also spread through infected plant parts that are transported from one farm to another.
+
+**3. Colletotrichum pod rot**
+
+* Cause: Colletotrichum species (a type of fungus)
+* How it spreads:
+	+ From plant to plant: Colletotrichum can spread through spores that are released into the air and then land on healthy plants. It can also spread through contaminated soil and water.
+	+ From farm to farm: Colletotrichum can spread through contaminated soil, equipment, and water. However, I am unsure about the exact ways in which it spreads from farm to farm, and more research is needed to confirm this.
+
+Please note that I am unsure about the exact ways in which these diseases spread from farm to farm, and more research is needed to confirm this.
+
+===== Treatment and Prevention Specialist =====
+Based on the symptoms of dark rotting patches on cocoa pods, I have identified the following possible diseases:
+
+**1. Phytophthora pod rot**
+
+* Cause: Phytophthora species (a type of fungus)
+* How it spreads:
+	+ From plant to plant: Phytophthora can spread through water droplets on the leaves and stems of infected plants, as well as through the soil. It can also spread through infected plant parts, such as roots and stems, that come into contact with healthy plants.
+	+ From farm to farm: Phytophthora can spread through contaminated soil, water, and equipment. It can also spread through infected plant parts that are transported from one farm to another.
+
+**2. Aspergillus pod rot**
+
+* Cause: Aspergillus species (a type of fungus)
+* How it spreads:
+	+ From plant to plant: Aspergillus can spread through spores that are released into the air and then land on healthy plants. It can also spread through contaminated soil and water.
+	+ From farm to farm: Aspergillus can spread through contaminated soil, equipment, and water. It can also spread through infected plant parts that are transported from one farm to another.
+
+**3. Colletotrichum pod rot**
+
+* Cause: Colletotrichum species (a type of fungus)
+* How it spreads:
+	+ From plant to plant: Colletotrichum can spread through spores that are released into the air and then land on healthy plants. It can also spread through contaminated soil and water.
+	+ From farm to farm: I am unsure about the exact ways in which Colletotrichum spreads from farm to farm, and more research is needed to confirm this.
+
+**Control Measures for Now:**
+
+1. **Remove and dispose of infected pods**: Immediately remove and dispose of any infected pods to prevent the disease from spreading to other parts of the tree.
+2. **Improve farm hygiene**: Ensure that the farm is clean and free of debris, and that equipment and tools are regularly cleaned and disinfected.
+3. **Use clean water**: Use clean water for irrigation and other purposes to reduce the risk of spreading the disease through water droplets.
+4. **Apply a fungicide**: Apply a fungicide, as advised by a MoFA extension officer, to infected areas to control the spread of the disease.
+5. **Prune the tree**: Prune the tree to improve air circulation and reduce the risk of disease spread.
+
+**Prevention Steps for the Next Season:**
+
+1. **Use resistant varieties**: Plant cocoa varieties that are resistant to the identified disease.
+2. **Maintain good farm hygiene**: Ensure that the farm is clean and free of debris, and that equipment and tools are regularly cleaned and disinfected.
+3. **Use clean water**: Use clean water for irrigation and other purposes to reduce the risk of spreading the disease through water droplets.
+4. **Apply a pre-planting treatment**: Apply a pre-planting treatment, as advised by a MoFA extension officer, to the soil before planting to reduce the risk of disease infection.
+5. **Monitor the tree regularly**: Monitor the tree regularly for signs of disease and take action promptly if any symptoms are detected.
+
+Please confirm any treatment with a MoFA extension officer before applying it to your farm.
+
+===== Reviewer (final answer) =====
+**What it is:** 
+**Phytophthora pod rot** (High confidence, caused by Phytophthora species, a type of fungus that infects cocoa plants through water droplets on leaves and stems, and through contaminated soil and plant parts)
+
+**How it spreads:**
+* From plant to plant: through water droplets on leaves and stems, and through contaminated soil and plant parts
+* From farm to farm: through contaminated soil, water, and equipment
+
+**Signs:**
+* Dark, water-soaked lesions on the pods
+* Extensive rotting and pod loss
+
+**What to do:**
+1. Remove and dispose of infected pods
+2. Improve farm hygiene
+3. Use clean water for irrigation and other purposes
+4. Confirm treatment with a MoFA extension officer before applying any fungicide
+
+**When to get help:**
+Please confirm any treatment with a MoFA extension officer before applying it to your farm.
+
+**Note:** I am unsure about the exact ways in which Colletotrichum spreads from farm to farm, and more research is needed to confirm this.
+

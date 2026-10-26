@@ -1,0 +1,80 @@
+====Disease Identifier====
+Based on the symptoms of yellow patterns on leaves of cassava, I am confident in the following possible diseases:
+
+1. Cassava mosaic virus (CMV) - This disease is characterized by yellow or yellow-green mosaic patterns on leaves, which fits the symptoms described.
+Confidence level: High
+
+2. Cassava brown streak disease (CBSD) - CBSD can cause yellow or yellow-brown streaks on leaves, which may be mistaken for mosaic patterns. However, the streaks are typically more linear and can be accompanied by other symptoms like leaf curl.
+Confidence level: Medium
+
+3. Cassava viral disease (CVD) - CVD can cause a range of symptoms, including yellow or yellow-green spots or patches on leaves. However, the symptoms can be more scattered and may not always follow a mosaic pattern.
+Confidence level: Low
+
+I am uncertain about the exact cause of the yellow patterns on the leaves of the cassava plant without more information or a visual inspection of the plant.
+
+====Cause and Spread Analyst ====
+Based on the symptoms of yellow patterns on leaves of cassava, I have identified the following possible causes:
+
+1. **Cassava Mosaic Virus (CMV)**
+   - Cause: Virus
+   - How it spreads from plant to plant: CMV is transmitted through the movement of infected plant parts, such as leaves and stems, or through contaminated tools and equipment. It can also be spread by aphids, which act as vectors.
+   - How it spreads from farm to farm: CMV can be spread through infected plant material, contaminated soil, and water, or through human activity, such as the movement of infected plants or equipment.
+
+2. **Cassava Brown Streak Disease (CBSD)**
+   - Cause: Fungus (specifically, the fungus Pseudocercospora fijiensis)
+   - How it spreads from plant to plant: CBSD is transmitted through the movement of infected plant parts, such as leaves and stems, or through contaminated soil and water.
+   - How it spreads from farm to farm: CBSD can be spread through infected plant material, contaminated soil, and water, or through human activity, such as the movement of infected plants or equipment.
+
+3. **Cassava Viral Disease (CVD)**
+   - Cause: Virus
+   - How it spreads from plant to plant: The exact mechanism of transmission for CVD is not well understood, but it is thought to be transmitted through the movement of infected plant parts, such as leaves and stems, or through contaminated tools and equipment.
+   - How it spreads from farm to farm: The exact mechanism of transmission for CVD is not well understood, and more research is needed to determine how it spreads from farm to farm.
+
+I am uncertain about the exact cause of the yellow patterns on the leaves of the cassava plant without more information or a visual inspection of the plant. Further investigation is needed to determine the cause of the disease.
+
+===Treatmment and Prevention Specialist===
+**Control Measures for Now:**
+
+1. **Remove and destroy infected plants**: Carefully remove and destroy any infected cassava plants to prevent the spread of the disease.
+2. **Sanitize tools and equipment**: Thoroughly clean and disinfect any tools or equipment that may have come into contact with infected plants or soil.
+3. **Use clean seed**: Use clean and certified disease-free seed for replanting to reduce the risk of infection.
+4. **Maintain good farm hygiene**: Ensure good farm hygiene practices, such as removing weeds and debris, to reduce the risk of disease spread.
+5. **Apply a foliar spray**: Apply a foliar spray made from a mixture of neem oil and water to help control the spread of the disease.
+
+**Prevention Steps for the Next Season:**
+
+1. **Conduct a thorough inspection**: Conduct a thorough inspection of your cassava plants before planting to identify any signs of disease.
+2. **Use resistant varieties**: Use cassava varieties that are resistant to the identified disease.
+3. **Maintain good farm hygiene**: Maintain good farm hygiene practices, such as removing weeds and debris, to reduce the risk of disease spread.
+4. **Use crop rotation**: Use crop rotation to break the disease cycle and reduce the risk of infection.
+5. **Apply a soil treatment**: Apply a soil treatment made from a mixture of compost and manure to improve soil health and reduce the risk of disease.
+
+**Note:** Before applying any treatment, it is recommended to confirm with a Ministry of Food and Agriculture (MoFA) extension officer to ensure the best course of action for your specific situation.
+
+====Reviewer====
+**What it is:** Cassava Mosaic Virus (CMV) - High, caused by a virus that attacks the plant, and Cassava Brown Streak Disease (CBSD) - Medium, caused by a fungus, and Cassava Viral Disease (CVD) - Low, caused by a virus that attacks the plant.
+
+**How it spreads:**
+- CMV: through the movement of infected plant parts, contaminated tools and equipment, and aphids.
+- CBSD: through the movement of infected plant parts, contaminated soil and water.
+- CVD: the exact mechanism of transmission is not well understood.
+
+**Signs:**
+- CMV: yellow or yellow-green mosaic patterns on leaves.
+- CBSD: yellow or yellow-brown streaks on leaves.
+- CVD: yellow or yellow-green spots or patches on leaves.
+
+**What to do:**
+- Remove and destroy infected plants.
+- Sanitize tools and equipment.
+- Use clean seed.
+- Maintain good farm hygiene.
+- Apply a foliar spray made from a mixture of neem oil and water.
+
+**When to get help:** Before applying any treatment, confirm with a Ministry of Food and Agriculture (MoFA) extension officer to ensure the best course of action for your specific situation.
+
+**Note:** I am uncertain about the exact cause of the yellow patterns on the leaves of the cassava plant without more information or a visual inspection of the plant. Further investigation is needed to determine the cause of the disease.
+
+**Example of a hallucination (cassava test):** the Analyst described
+Cassava Brown Streak Disease as caused by a fungus. It is actually caused
+by viruses. Full output: [cassava_test1.txt](examples/cassava_test1.txt)
