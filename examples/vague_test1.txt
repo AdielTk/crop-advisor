@@ -1,0 +1,66 @@
+INPUT: unknown | plant looks sick
+
+===== Disease Identifier =====
+I'm unable to provide a diagnosis without more information about the symptoms. Can you please provide more details about the symptoms, such as:
+
+* What type of plant is it (crop name)?
+* What is the appearance of the symptoms (e.g. yellowing leaves, black spots, etc.)?
+* Are there any other symptoms such as wilting, stunted growth, or unusual growth patterns?
+* Has the plant been treated with any chemicals or fertilizers recently?
+
+Without more information, I'm uncertain about the likely disease affecting the plant.
+
+===== Cause and Spread Analyst =====
+I'd be happy to help you identify the disease affecting the plant. However, I need more information about the symptoms. Could you please provide the following details:
+
+* What type of plant is it (crop name)?
+* What is the appearance of the symptoms (e.g. yellowing leaves, black spots, etc.)?
+* Are there any other symptoms such as wilting, stunted growth, or unusual growth patterns?
+* Has the plant been treated with any chemicals or fertilizers recently?
+
+Once I have this information, I can provide a more accurate explanation of the disease, its cause, and how it spreads from plant to plant and farm to farm.
+
+Please note that I will not provide a final answer without this information, as I want to ensure that I provide an accurate diagnosis.
+
+===== Treatment and Prevention Specialist =====
+I'd be happy to help you identify the disease affecting the plant, but I need more information about the symptoms. Could you please provide the following details:
+
+* What type of plant is it (crop name)?
+* What is the appearance of the symptoms (e.g. yellowing leaves, black spots, etc.)?
+* Are there any other symptoms such as wilting, stunted growth, or unusual growth patterns?
+* Has the plant been treated with any chemicals or fertilizers recently?
+
+Once I have this information, I can provide a more accurate explanation of the disease, its cause, and how it spreads from plant to plant and farm to farm.
+
+**Control Measures for Now:**
+
+1. **Remove and dispose of infected parts**: Carefully remove and dispose of any infected or damaged parts of the plant to prevent the disease from spreading.
+2. **Improve air circulation**: Ensure good air circulation around the plant by removing nearby weeds or debris that can harbor the disease.
+3. **Adjust watering habits**: Avoid overwatering, which can exacerbate the disease. Check the soil moisture regularly and adjust your watering schedule accordingly.
+4. **Apply a natural mulch**: Apply a natural mulch, such as straw or grass clippings, around the base of the plant to help retain moisture and suppress weeds.
+5. **Monitor for pests**: Check the plant regularly for any signs of pests that may be contributing to the disease.
+
+**Prevention Steps for the Next Season:**
+
+1. **Choose resistant varieties**: Select crop varieties that are resistant to the disease.
+2. **Maintain good farm hygiene**: Ensure that your farm is clean and free of debris, weeds, and other organic matter that can harbor the disease.
+3. **Use crop rotation**: Rotate your crops to break the disease cycle and reduce the risk of infection.
+4. **Apply natural pest control methods**: Use natural pest control methods, such as introducing beneficial insects or using neem oil, to control pests that may be contributing to the disease.
+5. **Keep records**: Keep accurate records of your farming practices, including any treatments or control measures used, to help you identify the cause of the disease and prevent it from returning next season.
+
+Please confirm any treatment or control measure with a MoFA extension officer to ensure it is safe and effective for your specific situation.
+
+===== Reviewer (final answer) =====
+I couldn't find any information on the specific disease affecting the plant. Without more information about the symptoms, I'm unable to provide a diagnosis.
+
+Please provide the following details:
+
+* What type of plant is it (crop name)?
+* What is the appearance of the symptoms (e.g. yellowing leaves, black spots, etc.)?
+* Are there any other symptoms such as wilting, stunted growth, or unusual growth patterns?
+* Has the plant been treated with any chemicals or fertilizers recently?
+
+Please note that I will not provide a final answer without this information, as I want to ensure that I provide an accurate diagnosis.
+
+**Note:** I will not provide any treatment or control measures without confirming with a MoFA extension officer first.
+

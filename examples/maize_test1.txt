@@ -1,0 +1,79 @@
+INPUT: maize | brown spots with yellow edges on leaves
+
+===== Disease Identifier =====
+Based on the symptoms of brown spots with yellow edges on leaves, I have identified the following possible diseases affecting maize:
+
+1. **Gray Leaf Spot (Cercospora zeae-maydis)**: This disease is characterized by brown spots with yellow edges on leaves, which matches the symptoms described. I am confident in this identification with a high level of confidence (High: 9/10).
+
+2. **Rust (Puccinia sorghi)**: Rust diseases can cause brown spots with yellow edges on leaves, although the spots may be more rounded and have a reddish-brown color. I am moderately confident in this identification with a medium level of confidence (Medium: 6/10).
+
+3. **Leaf Spot (Cercospora spp.)**: Leaf spot diseases can also cause brown spots with yellow edges on leaves, although the spots may be smaller and more scattered. I am uncertain about this identification due to the lack of specific information about the size and distribution of the spots, and I do not want to provide an incorrect diagnosis. I am therefore unable to assign a confidence level to this option.
+
+Please note that a definitive diagnosis would require further information about the crop's environment, growth stage, and other symptoms.
+
+===== Cause and Spread Analyst =====
+Based on the symptoms of brown spots with yellow edges on leaves, I have identified the following possible diseases affecting maize:
+
+1. **Gray Leaf Spot (Cercospora zeae-maydis)**
+
+   - Cause: Gray Leaf Spot is caused by a fungus (Cercospora zeae-maydis).
+   - How it spreads from plant to plant: The fungus can spread from plant to plant through direct contact between infected and healthy leaves, as well as through the air when infected leaves are damaged or dislodged.
+   - How it spreads from farm to farm: Gray Leaf Spot can spread from farm to farm through contaminated seed, infected planting material, and human activity, such as handling infected plants or equipment.
+
+2. **Rust (Puccinia sorghi)**
+
+   - Cause: Rust is caused by a fungus (Puccinia sorghi).
+   - How it spreads from plant to plant: The fungus can spread from plant to plant through direct contact between infected and healthy leaves, as well as through the air when infected leaves are damaged or dislodged.
+   - How it spreads from farm to farm: Rust can spread from farm to farm through contaminated seed, infected planting material, and human activity, such as handling infected plants or equipment.
+
+3. **Leaf Spot (Cercospora spp.)**
+
+   - Cause: Leaf Spot is caused by a fungus (Cercospora spp.).
+   - How it spreads from plant to plant: The fungus can spread from plant to plant through direct contact between infected and healthy leaves, as well as through the air when infected leaves are damaged or dislodged.
+   - How it spreads from farm to farm: The exact mechanism of how Leaf Spot spreads from farm to farm is not well understood and more research is needed to determine the exact routes of transmission.
+
+===== Treatment and Prevention Specialist =====
+**Control Measures for Now:**
+
+1. **Remove and destroy infected plants**: Remove and destroy any infected plants to prevent the spread of the disease.
+2. **Improve crop rotation**: Rotate your maize crop with other crops that are not susceptible to the same disease, to break the disease cycle.
+3. **Use clean seed and planting material**: Use clean seed and planting material to reduce the risk of infection.
+4. **Maintain good farm hygiene**: Maintain good farm hygiene by disposing of infected plant material, cleaning equipment, and disinfecting tools.
+5. **Apply a fungicide**: Apply a fungicide, confirmed with a MoFA extension officer, to the affected plants to control the disease.
+
+**Prevention Steps for the Next Season:**
+
+1. **Use resistant varieties**: Use maize varieties that are resistant to the identified disease.
+2. **Maintain good farm hygiene**: Maintain good farm hygiene by disposing of infected plant material, cleaning equipment, and disinfecting tools.
+3. **Rotate crops**: Rotate your maize crop with other crops that are not susceptible to the same disease, to break the disease cycle.
+4. **Monitor for disease**: Monitor your maize crop regularly for signs of disease, and take action early to prevent the disease from spreading.
+5. **Use crop protection measures**: Use crop protection measures, such as row covers or other forms of protection, to prevent the disease from spreading.
+
+Please confirm any treatment or control measure with a MoFA extension officer to ensure it is suitable for your specific situation.
+
+===== Reviewer (final answer) =====
+**What it is:** Gray Leaf Spot (High: 9/10) - This disease is caused by a fungus (Cercospora zeae-maydis) that infects maize plants, causing brown spots with yellow edges on leaves. I am confident in this identification.
+
+**How it spreads:** 
+- Direct contact between infected and healthy leaves
+- Airborne transmission when infected leaves are damaged or dislodged
+- Contaminated seed and planting material
+- Human activity, such as handling infected plants or equipment
+
+**Signs:** 
+- Brown spots with yellow edges on leaves
+- Leaves may become yellow or wilted
+- Fungal spores may be seen on the surface of infected leaves
+
+**What to do:** 
+- Remove and destroy infected plants to prevent the spread of the disease
+- Improve crop rotation to break the disease cycle
+- Use clean seed and planting material to reduce the risk of infection
+- Maintain good farm hygiene by disposing of infected plant material, cleaning equipment, and disinfecting tools
+- **Confirm with a MoFA extension officer** before applying any fungicides.
+
+**When to get help:** 
+- Contact a MoFA extension officer immediately if you notice any signs of Gray Leaf Spot on your maize plants.
+
+**Note:** I am confident in this identification, but a definitive diagnosis would require further information about the crop's environment, growth stage, and other symptoms.
+

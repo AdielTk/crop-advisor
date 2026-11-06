@@ -1,0 +1,80 @@
+INPUT: tomato | brown spots with yellow rings on the lower leaves, spreading upward
+
+===== Disease Identifier =====
+Based on the symptoms provided, I am uncertain about the exact disease affecting the tomato plant. However, I can provide some possible causes and their corresponding confidence levels:
+
+1. **Early Blight (Alternaria solani)**: Brown spots with yellow rings on the lower leaves are characteristic of Early Blight, which can spread upward through the plant.
+Confidence: Medium (40%)
+
+2. **Septoria Leaf Spot (Septoria lycopersici)**: This disease can cause brown spots with yellow rings on the lower leaves, and it can also spread upward through the plant.
+Confidence: Medium (40%)
+
+3. **Bacterial Canker (Clavibacter michiganensis)**: Bacterial Canker can cause brown spots with yellow rings on the lower leaves, and it can also spread upward through the plant.
+Confidence: Low (20%)
+
+Please note that these are just possible causes, and a definitive diagnosis would require further investigation, such as laboratory testing or consultation with a plant pathologist.
+
+===== Cause and Spread Analyst =====
+Based on the symptoms provided, here are the possible causes of the disease affecting the tomato plant:
+
+**1. Early Blight (Alternaria solani)**
+
+* Cause: Fungus (Alternaria solani)
+* How it spreads:
+	+ From plant to plant: Early Blight can spread through contact between infected and healthy plants, as well as through contaminated soil and water.
+	+ From farm to farm: Early Blight can be spread through the movement of infected plants, tools, and equipment from one farm to another.
+
+**2. Septoria Leaf Spot (Septoria lycopersici)**
+
+* Cause: Fungus (Septoria lycopersici)
+* How it spreads:
+	+ From plant to plant: Septoria Leaf Spot can spread through contact between infected and healthy plants, as well as through contaminated soil and water.
+	+ From farm to farm: Septoria Leaf Spot can be spread through the movement of infected plants, tools, and equipment from one farm to another.
+
+**3. Bacterial Canker (Clavibacter michiganensis)**
+
+* Cause: Bacteria (Clavibacter michiganensis)
+* How it spreads:
+	+ From plant to plant: The exact mechanism of spread is not well understood, but it is thought to involve wounds or cuts on the plant, as well as through contaminated soil and water.
+	+ From farm to farm: The exact mechanism of spread is not well understood, and more research is needed to determine how Bacterial Canker is transmitted from farm to farm.
+
+Note: I have only included the causes and methods of spread that are supported by available scientific evidence. If more information becomes available, these explanations may be updated.
+
+===== Treatment and Prevention Specialist =====
+**Control Measures for Now:**
+
+1. **Remove and dispose of infected plants**: Carefully remove any infected plants from the field to prevent the spread of the disease to other plants.
+2. **Improve air circulation**: Ensure good air circulation around the plants to reduce the moisture that fungi need to survive.
+3. **Use clean tools and equipment**: Regularly clean and disinfect any tools or equipment that may have come into contact with infected plants or soil.
+4. **Apply a natural fungicide**: Mix a solution of neem oil and water (1 part neem oil to 10 parts water) and apply it to the affected plants. This can help control the spread of the disease.
+5. **Apply a bactericide**: Mix a solution of garlic juice and water (1 part garlic juice to 5 parts water) and apply it to the affected plants. This can help control the spread of Bacterial Canker.
+
+**Prevention Steps for the Next Season:**
+
+1. **Use resistant varieties**: Plant varieties that are resistant to Early Blight and Septoria Leaf Spot.
+2. **Rotate crops**: Rotate your crops to avoid planting the same crop in the same field for two consecutive seasons. This can help break the disease cycle.
+3. **Use crop rotation patterns**: Use crop rotation patterns that include non-host crops to break the disease cycle.
+4. **Improve soil health**: Improve soil health by adding organic matter such as compost or manure. This can help reduce the risk of disease.
+5. **Monitor for disease**: Regularly monitor your plants for signs of disease and take action early to prevent the disease from spreading.
+
+**Important:** Before applying any treatment, confirm with a Ministry of Food and Agriculture (MoFA) extension officer to ensure that you are using the most effective and recommended control measures for your specific situation.
+
+===== Reviewer (final answer) =====
+**What it is:** Early Blight (Alternaria solani) or Septoria Leaf Spot (Septoria lycopersici) - Medium confidence (40%) or Low confidence (20%) in the exact disease, but both are possible causes.
+
+**How it spreads:**
+* From plant to plant: Through contact between infected and healthy plants, contaminated soil, and water.
+* From farm to farm: Through the movement of infected plants, tools, and equipment from one farm to another.
+
+**Signs:**
+* Brown spots with yellow rings on the lower leaves.
+* Spots may spread upward through the plant.
+
+**What to do:**
+* Remove and dispose of infected plants to prevent the spread of the disease.
+* Improve air circulation around the plants to reduce moisture that fungi need to survive.
+* Use clean tools and equipment to prevent the spread of the disease.
+* Confirm with a Ministry of Food and Agriculture (MoFA) extension officer before applying any treatment.
+
+**Note:** I am uncertain about the exact disease affecting the tomato plant, and more information is needed to determine the best course of action. It is recommended to consult with a plant pathologist or a MoFA extension officer for a definitive diagnosis and recommended treatment.
+

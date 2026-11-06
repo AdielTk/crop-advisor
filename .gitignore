@@ -4,3 +4,5 @@ testenv/
 .env
 __pycache__/
 output.txt
+models/
+*.pth
