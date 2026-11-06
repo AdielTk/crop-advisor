@@ -271,4 +271,4 @@ can see how each stage behaved:
 
 I am Adiel Tweneboah-Koduah, a third-year student at KNUST interested in AI and
 machine learning. I'm learning in public, and I welcome feedback and
-suggestions. [LinkedIn link]
+suggestions. https://www.linkedin.com/in/adiel-tweneboah-koduah-406a68355
