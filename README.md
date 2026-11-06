@@ -14,7 +14,7 @@ English or Twi.
 
 - [Why I built this]
 - [How it works]
-- [v2: now it can look at the leaf (and speak Twi)]
+- [v2: now it can look at the leaf (and write Twi)]
 - [How to run it]
 - [Where this started]
 - [v1 evaluation]
@@ -45,7 +45,7 @@ running a local model (llama3.2) through Ollama:
 
 The interface is built with Gradio and includes basic input validation.
 
-## v2: now it can look at the leaf (and speak Twi)
+## v2: now it can look at the leaf (and  write Twi)
 
 v1 was text only: you typed the crop and symptoms and four AI agents
 worked it out. It worked, but it hallucinated disease names and believed
@@ -67,7 +67,7 @@ anything I typed. So I upgraded it. The original is still in
 - **Confidence check.** If the classifier is not sure (under 70%), the app
   says so at the top of the answer instead of pretending.
 - **Crop mismatch warning.** If I type "maize" but upload a tomato leaf,
-  the app tells me.
+  the app tells me(though sometimes it is the wrong answer).
 - **Twi option.** The final advice can be translated into Twi using
   GhanaNLP's [Khaya](https://translation.ghananlp.org) translation API.
   The English version is shown right under it.
@@ -101,7 +101,7 @@ Diseases that look alike are hard for people too.
   unsure. This is exactly why the confidence check exists.
 - 97.6% looks great, but PlantVillage photos are single leaves on plain
   backgrounds. Real farm photos are messier, so I do not trust that number
-  in the field yet. I tested only [N] outside photos, which is too few to
+  in the field yet. I tested only 2 outside photos, which is too few to
   report a real field accuracy.
 - The classifier only knows its 38 classes and will always pick one. It
   has no "none of the above" option.
@@ -114,8 +114,7 @@ Diseases that look alike are hard for people too.
 ### Twi: read this before trusting it
 
 The translation is automatic, and I have not yet had a fluent Twi speaker
-check it [update when done: how many answers were checked and how many
-were correct]. Treat it as a first draft, not advice. The app prints this
+check it. Treat it as a first draft, not advice. The app prints this
 warning under every Twi answer.
 
 ## How to run it
@@ -155,7 +154,7 @@ tested it myself.
 ## v1 evaluation
 
 I tested the text-only version (v1) on 7 cases and checked the results
-against the sources noted in the table (FAO, CABI and others).
+against the sources noted in the table (FAO, CABI and Kloppert Global).
 
 | Input | Disease named | Correct? | Problems | Sources checked |
 |---|---|---|---|---|
