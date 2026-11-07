@@ -8,7 +8,7 @@ English or Twi.
 > **This is a learning project, not a diagnostic tool.** Always confirm
 > with a Ministry of Food and Agriculture (MoFA) extension officer.
 
-![Interface with photo check](images/result_with_photo.png)
+![Interface with photo check](images/interface_aftertwisupport.png)
 
 ## Contents
 
