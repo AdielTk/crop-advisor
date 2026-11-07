@@ -8,7 +8,7 @@ English or Twi.
 > **This is a learning project, not a diagnostic tool.** Always confirm
 > with a Ministry of Food and Agriculture (MoFA) extension officer.
 
-![Interface with photo check](images/app-validation.png)
+![Interface with photo check](images/interface_aftertwi_support.png)
 
 ## Contents
 
@@ -234,7 +234,7 @@ files right away.
 
 ## Screenshots
 
-![Interface overview](image_afterpic_upload/interface_aftertwi support.png)
+![Interface overview](image_afterpic_upload/interface_aftertwi_support.png)
 
 ![Result with photo check](images/healthymaize_twi_version.png)
 
@@ -257,6 +257,7 @@ can see how each stage behaved:
 - [Cocoa: dark rotting patches on pods](examples/cocoa_test1.txt)
 - [Tomato: leaves curling with white powder](examples/tomato_test1.txt)
 - [Vague input: "plant looks sick"](examples/vague_test1.txt)
+- 
 
 ## Credits
 
