@@ -233,11 +233,11 @@ files right away.
 
 ## Screenshots
 
-![Interface overview](image_afterpic_upload/interface_aftertwi_support.png)
+![Interface overview](image_afterpic_upload/interface_twi_support.png)
 
-![Result with photo check](images/healthymaize_twi_version.png)
+![Result with photo check](image_afterpic_upload/healthymaize_twi_version.png)
 
-![Result in Twi](image/healthymaize_twi_version.png)
+![Result in Twi](image_afterpic_upload/healthymaize_twi_version.png)
 
 
 **v1 screenshots**
