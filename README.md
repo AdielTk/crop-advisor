@@ -237,7 +237,7 @@ files right away.
 
 ![Result with photo check](image_afterpic_upload/healthymaize_twi_version.png)
 
-![Result in Twi](image_afterpic_upload/healthymaize_twi_version.png)
+![Result in Twi](image_afterpic_upload/cornrust_pic.png) [I only inputed the picture of the leaf affected by corn rust and stated the part of the crop that was affected andd not the symptoms]
 
 
 **v1 screenshots**
