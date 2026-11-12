@@ -265,7 +265,7 @@ can see how each stage behaved:
   data). Check the dataset page for the licence.
 - [Khaya](https://translation.ghananlp.org) translation API by GhanaNLP
 - The CrewAI course by DeepLearning.AI[https://crewai.com]
-- [Add the Wikimedia Commons photo credit here]
+  
 
 ## About me
 
